@@ -1,0 +1,14 @@
+{
+  "resourceName": "profilePic",
+  "policyUUID": "d2fe12dd",
+  "bucketName": "projectpipi-profilepics-267689146636",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger3c064aec",
+  "groupAccess": {}
+}
