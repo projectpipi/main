@@ -1,3 +1,7 @@
+import { Amplify } from 'aws-amplify';
+import awsconfig from './src/aws-exports';
+Amplify.configure(awsconfig);
+
 import React from 'react';
 import { View, Text } from 'react-native';
 
