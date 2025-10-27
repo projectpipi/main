@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "App.js",
   "dependencies": {
+    "@aws-amplify/react-native": "^1.2.0",
     "@aws-amplify/ui-react-native": "^2.6.3",
     "aws-amplify": "^6.15.7",
     "expo": "^54.0.0",
